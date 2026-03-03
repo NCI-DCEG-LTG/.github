@@ -19,10 +19,10 @@ If you are new to LTG or new to working with our data and code:
 This section includes:
 
 - Onboarding guides  
-- Lab policies and expectations  
+- Labs information  
 - Computing and account setup instructions  
 - Data storage and access guidance  
-- Key contacts  
+- Key contacts
 
 ---
 
@@ -41,42 +41,28 @@ General resource hub containing:
 Main repository:  
 https://github.com/NCI-DCEG-LTG/LTG-share-resources
 
----
 
-## 🧪 Research Focus
+### 🔹 Individual Lab Repositories
+Public repositories for individual LTG research groups are maintained within this organization. Each lab repository contains project-specific code, documentation, analysis workflows, and links to associated publications or datasets.
 
-LTG research includes:
-
-- Identifying genetic variants associated with cancer susceptibility  
-- Fine-mapping and functional annotation of risk loci  
-- Integrating germline and somatic genomics data  
-- Applying high-throughput sequencing technologies  
-- Supporting diverse population studies in cancer genomics  
-
----
-
-## 📖 Tools & External Resources
-
-Commonly used external resources include:
-
-- NCBI GEO and SRA  
-- dbGaP  
-- Cancer genomics databases  
-- Population genetics and bioinformatics tools  
-
+- **Amundadottir-Lab**
+- **Brown-lab**
+- **Choi-lab**  
+- **Dean-lab**  
+- **Mila-lab**
+ 
 ---
 
 ## 📌 Contribution Guidelines
 
 When contributing to this organization:
 
-- Use clear and consistent Markdown documentation  
+- Use Markdown documentation  
 - Include descriptive README files for repositories  
-- Follow GitHub best practices (issues, pull requests, version control)  
 - Do not commit sensitive or controlled-access data  
 
 ---
 
 ## 📞 Contact
 
-For more information about LTG research, visit the LTG main page above or contact the appropriate repository maintainer.
+For more information about LTG research, visit the LTG main page above or contact the repository maintainer.
